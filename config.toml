@@ -1,0 +1,95 @@
+Title =  "Fly Hu"
+LanguageCode = "zh-CN"
+BaseUrl = "https://www.hugaoxiang.com/"
+Theme =  "next"
+MetaDataFormat =  "yaml"
+CanonifyUrls =  true
+BuildDrafts =  false
+PaginatePath =  "p"
+Paginate = 8
+DisablePathToLower =  false
+HasCJKLanguage = true
+PreserveTaxonomyNames = false
+UglyUrls = false
+PygmentsStyle = "monokai"
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+DefaultContentLanguage = "zh"
+
+[Params]
+  Introduce = "Developer"
+  Description = "技术 | 产品 | 科学｜艺术｜领悟"
+  Keywords =  "独立,开发,产品"
+  Subtitle = "时间有限，探索无限"
+  Imglogo = "/img/logo.png"
+  AuthorImg = "/img/my_avatar.jpg"
+  DateFormat = "2006-01-02"
+  YearFormat = "2006年"
+  MonthFormat = "01-02"
+  #BaiduStatsId = "0b07433b4ab8d587dae7d34e71973839"
+  #QQStatsId = "58416275"
+  RevolverMapId = "5b4f2ucxar6"
+  Fancybox = true
+
+[Params.valine]
+    enable = true   # 打开评论功能
+    appId = 'ktj9tMNk3SvLrOoYJANCGE5x-gzGzoHsz'
+    appKey = 'R0UkQa1coWENxgMJ2OTUvqQA'
+    notify = false  
+    verify = true 
+    avatar = 'robohash' 
+    placeholder = '评论一下，说明你来过~'
+    visitor = true
+
+[Author]
+  Name = "乐高"
+
+[Params.Share]
+  #DuoShuo = "lanlingzi"
+  Baidu = true
+
+[[Menu.Main]]
+  Name = "首页"
+  Pre = "home"
+  URL = "/"
+  Weight = 1
+#[[Menu.Main]]
+#  Name = "技术"
+#  Pre = "code"
+#  URL = "/categories/技术/"
+#  Weight = 2
+#[[Menu.Main]]
+#  Name = "产品"
+##  Pre = "tint"
+#  URL = "/categories/产品/"
+#  Weight = 3
+#[[Menu.Main]]
+#  Name = "人生"
+#  Pre = "life"
+#  URL = "/categories/人生/"
+#  Weight = 4
+#[[Menu.Main]]
+#  Name = "杂记"
+#  Pre = "leaf"
+#  URL = "/categories/杂记/"
+#  Weight = 5
+[[Menu.Main]]
+  Name = "归档"
+  Pre = "archive"
+  URL = "/post/"
+  Weight = 2
+[[Menu.Main]]
+  Name = "关于"
+  Pre = "user"
+  URL = "/about/"
+  Weight = 3
+
+[[Params.Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/zjhgx/"
+
+[[Params.Socials]]
+  Name = "知乎"
+  Icon = "globe"
+  URL = "https://www.zhihu.com/"  

@@ -1,0 +1,33 @@
+baseurl = "https://www.hugaoxiang.com/"
+languageCode = "zh-CN"
+title = "火星来的吧"
+theme = "vienna"
+copyright = "&copy; Copyright notice"
+[params]
+    # Social accounts. Link to these accounts are displayed in the header and
+    # footer.
+ #   twitter = "Your Twitter username"
+    github = "Your GitHub username"
+#    gitlab = "Your GitLab username"
+    linkedin = "Your LinkedIn username"
+#    googleplus = "Your Google+ user id"
+#    facebook = "Your Facebook username"
+#    reddit = "Your Reddit username"
+#    hackernews = "Your Hacker News username"
+#    stackoverflow = "Your Stackoverflow user id (number)"
+    keybase = "Your keybase.io username"
+#    instagram = "Your Instagram username"
+    # Disqus shortname
+    disqus = "zjhgx"
+    # Google Analytics API key.
+    ga_api_key = ""
+    # Mixpanel API key.
+ #   mixpanel_api_key = "Your Mixpanel API key"
+    author = "David Hu"
+#    avatar = "/path/to/avatar"
+    contact = "zjhgx@outlook.com"
+#    bio = "Your short bio"
+    # Short subtitle/tagline. This is displayed in the header.
+    subtitle = "生命只有一次/产品 技术 人生"
+    themecolor = "#hexcolor" # Defines the tab color in Chrome for Android.
+
