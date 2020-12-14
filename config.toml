@@ -17,10 +17,10 @@ pygmentsCodefencesGuessSyntax = true
 DefaultContentLanguage = "zh"
 
 [Params]
-  Introduce = "Developer"
-  Description = "技术 | 产品 | 科学｜艺术｜领悟"
+  Introduce = "Full Stack Developer"
+  Description = "技术 | 产品 | 科学｜艺术｜叨叨"
   Keywords =  "独立,开发,产品"
-  Subtitle = "时间有限，探索无限"
+  Subtitle = "不睡够12小时不起床仙人"
   Imglogo = "/img/logo.png"
   AuthorImg = "/img/my_avatar.jpg"
   DateFormat = "2006-01-02"
